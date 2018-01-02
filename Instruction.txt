@@ -1,0 +1,7 @@
+make sure the requirements are satisfied..
+1. windows 10
+2. python 3.5+
+3. chatterbot 
+
+place your conversation file in 'conv' dir.
+run python dave.py 
