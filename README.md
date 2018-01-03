@@ -20,7 +20,7 @@ Requirements
 Setup
 ------------------------------
 steps to setup project for your needs: 
-1. $ git clone https://github.com/umangkr/Dave-the_chatbot.git
+1. $ git clone https://github.com/umangkr/Dave-The-chatbot.git
 2. pip install all the requirements.
 3. make as many conversation pairs and save it in 'conv' directory.
 4. $ python dave.py ...Run the program a new database will be created with prepared conversation.
